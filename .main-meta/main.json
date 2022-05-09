@@ -23,8 +23,8 @@
             "semverRange": "^2.1.152"
         },
         "configurator": {
-            "name": "N/A",
-            "semverRange": " "
+            "name": "MCC",
+            "semverRange": ">=5.1.1"
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -43,14 +43,7 @@
         "keywords": [
             "MPLAB X",
             "Getting Started",
-            "Bare Metal",
-            "Multi-Voltage I/O",
-            "MVIO",
-            "GPIO",
-            "IO",
-            "Port",
-            "System Module",
-            "Module"
+            "MVIO"
         ],
         "additionalData": {
             "longDescription": {
